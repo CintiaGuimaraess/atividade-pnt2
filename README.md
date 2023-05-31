@@ -1,1 +1,4 @@
-Link to Github Repo for issues - https://github.com/Tommertom/ionicstackblitzes
+Atividade de PNT2
+Professor Francisco
+Aluno: Cintia Maria
+Turma: 3B
